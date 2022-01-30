@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-auth/static/css/main.21465f9b.css",
+    "main.js": "/google-auth/static/js/main.288f8637.js",
+    "static/js/787.4cba8f6a.chunk.js": "/google-auth/static/js/787.4cba8f6a.chunk.js",
+    "index.html": "/google-auth/index.html",
+    "main.21465f9b.css.map": "/google-auth/static/css/main.21465f9b.css.map",
+    "main.288f8637.js.map": "/google-auth/static/js/main.288f8637.js.map",
+    "787.4cba8f6a.chunk.js.map": "/google-auth/static/js/787.4cba8f6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21465f9b.css",
+    "static/js/main.288f8637.js"
+  ]
+}
